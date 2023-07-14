@@ -157,7 +157,10 @@ Caso dê um dislike em um comentário que tenha dado like, o dislike sobrescreve
 
 ### Documentação (links)
 - [Postman](https://documenter.getpostman.com/view/24823240/2s93zFYKX7)
-
+  
+#
+### LabEddit (Back-End)
+[Repositório do Front-End](https://github.com/AdrianoSilva42/LabbEdit-Front-end)
 
 &nbsp;
 
