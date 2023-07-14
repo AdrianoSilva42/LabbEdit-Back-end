@@ -160,8 +160,9 @@ Caso dê um dislike em um comentário que tenha dado like, o dislike sobrescreve
   
 #
 ### LabEddit (Back-End)
-[Repositório do Front-End](https://github.com/AdrianoSilva42/LabbEdit-Front-end)
+- [Repositório do Front-End](https://github.com/AdrianoSilva42/LabbEdit-Front-end)
 
+#
 &nbsp;
 
 ### Tecnologias utilizadas
